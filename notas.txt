@@ -1,0 +1,17 @@
+Ubicación entorno virtual para proyecto
+C:\Users\Jonasito\Desktop\Trabajo\Entornos\entorno10\Scripts
+
+Ubicación de proyecto
+C:\Users\Jonasito\Desktop\Trabajo\Ejercicios\Login-Flask
+
+librerias descargadas
+pip install Flask
+pip install flask flask-mysqldb
+pip install flask flask-login
+pip install flask flask_WTF
+
+crear archivo requeriments.txt
+pip freeze > "requeriments.txt"
+
+cargar el archivo requeriments.txt
+pip install -r "requeriments.txt"
